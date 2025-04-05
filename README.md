@@ -42,6 +42,7 @@ pip install -r requirements.txt
 ```nginx
 requests
 pandas
+python-dotenv
 ```
 ## 🚀 Запуск
 ### 📡 Получение данных рейсов
